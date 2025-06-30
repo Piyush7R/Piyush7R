@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate full stack web developer.<br>I'm currently working on upskilling myself in various tech fields.
+I'm a passionate Data Scientist and full stack web developer.<br>I'm currently working on upskilling myself in various tech fields.
 
 
 ## 🌐 Socials:
